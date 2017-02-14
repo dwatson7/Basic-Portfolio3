@@ -1,0 +1,57 @@
+body{
+
+  background-color: #ffffff;
+  width: 1000px;
+
+}
+.MainBox{
+  width: 1000px;
+  background-color: #ffffff;
+  border-color: #dddddd;
+  margin: 50px;
+
+}
+
+#AboutMe{
+  width: 50%;
+
+}
+h1 {
+  color: #4aaaa5;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+h2{
+
+  color: #4aaaa5
+  ;
+}
+h3{
+  color: #4aaaa5;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+
+
+#P1{
+  float: left;
+  font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  color: #777777
+}
+
+#P2{
+  float: left;
+  font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  color: #777777
+}
+
+footer{
+  color: white;
+  width: 1000px;
+  text-align: center;
+  background-color: #666666;
+  margin-top: 20px;
+  padding: 20px;
+}
